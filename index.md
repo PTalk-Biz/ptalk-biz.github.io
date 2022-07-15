@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## "PTalk-Biz"는 평범한 스마트폰을 고성능 무전기로 변신시켜줍니다. 
 
 You can use the [editor on GitHub](https://github.com/PTalk-Biz/ptalkbiz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
